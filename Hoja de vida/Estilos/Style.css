@@ -1,0 +1,18 @@
+.Style{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 500;
+    color:black;
+    background:rosybrown;
+    text-align: center;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius:35px 0px 35px 0px;
+    border:5px solid beige;  
+}
+
+h1 {
+    color: white;
+    background: black;
+    border: solid black;
+}
